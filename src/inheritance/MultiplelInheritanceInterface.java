@@ -1,6 +1,6 @@
 package inheritance;
 
-public class MultilevelInheritanceInterface {
+public class MultiplelInheritanceInterface {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
